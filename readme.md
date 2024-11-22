@@ -10,7 +10,7 @@ git clone https://github.com/fperiago/deeponet.git
 ```
 2. Create the conda virtual enviromment `deeponetcontrol` 
 ```
-cd deepcontrol
+cd deeponetcontrol
 conda env create -f deeponetcontrol_env.yml
 ```
 3. Activate the deeponetcontrol virtual environment:
@@ -26,4 +26,4 @@ python3 folder/script_name.py
 
 [^1]: Department of Mathematics. University of California, Santa Barbara. CA 93106, USA
 [^2]: Department of Applied Mathematics and Statistics. Universidad Politécnica de Cartagena, Campus Muralla del Mar, 30202, Cartagena (Murcia), Spain
-[^3] Department of Mathematics. University of Castilla-La Mancha, 13071 Ciudad Real, Spain
+[^3]: Department of Mathematics. University of Castilla-La Mancha, 13071 Ciudad Real, Spain
